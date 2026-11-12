@@ -1,8 +1,0 @@
-# Install usethis if you don't already have it
-install.packages("usethis")
-
-# Set your Git name and email
-usethis::use_git_config(
-  user.name = "Emily Moser", 
-  user.email = "emilymoser1997@gmail.com"
-)
