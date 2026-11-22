@@ -64,7 +64,7 @@ names(all_data)
 
 # avganncount: Average number of cancer cases diagnosed annually.
 # 
-# avgdeathsperyear: Average number of deaths due to cancer per year.
+# avgdeathsperyear: Average number of deaths per year for any reason.
 # 
 # target_deathrate: Target death rate due to cancer.
 # 
